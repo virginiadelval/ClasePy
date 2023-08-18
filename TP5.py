@@ -10,7 +10,7 @@
 
 '''2. Coloque el módulo del ejercicio anterior dentro de un paquete. En un módulo que esté fuera de ese paquete, cree una función de suma de decimales que redondee el resultado haciendo uso de la función redondear() del paquete recién creado.'''
 
-# from libreria.libreria import redondear 
+# from libreria import redondear 
 
 # def suma(numero1,numero2):
 #     algebra=numero1+numero2
